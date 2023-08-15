@@ -38,7 +38,7 @@ public class checkoutonetest extends BaseClass{
 		getDriver().quit();
 	}
 	
-	@Test(dataProvider  = "credentials", dataProviderClass = DataProviders.class, groups = "Regreesion")
+	@Test(dataProvider  = "credentials", dataProviderClass = DataProviders.class, groups = "Regression")
 	public void CO1(String username , String password) throws InterruptedException {
 		LoginPage = new loginPage();
 //		inventorypage=LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));
@@ -49,7 +49,7 @@ public class checkoutonetest extends BaseClass{
 		CHECK=cartPage.clickOnCheckOut();
 	}
 	
-	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regreesion"})
+	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regression"})
 	public void CO2(String username , String password,String FirstName,String LastName,String PostalCode) throws InterruptedException {
 		LoginPage = new loginPage();
 //		inventorypage=LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));

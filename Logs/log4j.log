@@ -219,3 +219,61 @@
 2023-03-07 17:44:57 INFO  Log:22 - Verifying if user is able to login
 2023-03-07 17:44:57 INFO  Log:22 - Login is Success
 2023-03-07 17:44:57 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 17:01:17 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 17:01:17 INFO  Log:22 - Enter UserName and Password
+2023-08-15 17:01:17 INFO  Log:22 - user is going to click on Login
+2023-08-15 17:01:18 INFO  Log:22 - Login is Success
+2023-08-15 17:01:18 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 17:01:18 INFO  Log:11 - =====================================addtocart TEST START=========================================
+2023-08-15 17:01:19 INFO  Log:22 - addtocart is Success
+2023-08-15 17:01:19 INFO  Log:15 - =====================================addtocart TEST END=========================================
+2023-08-15 17:01:19 INFO  Log:11 - =====================================CH_1 TEST START=========================================
+2023-08-15 17:01:21 INFO  Log:22 - CH_1 is Success
+2023-08-15 17:01:21 INFO  Log:15 - =====================================CH_1 TEST END=========================================
+2023-08-15 17:29:21 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 17:29:21 INFO  Log:22 - Enter UserName and Password
+2023-08-15 17:29:21 INFO  Log:22 - user is going to click on Login
+2023-08-15 17:29:22 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 17:29:22 INFO  Log:22 - Login is Success
+2023-08-15 17:29:22 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:06:21 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:06:21 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:06:21 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:06:22 INFO  Log:22 - Login is Success
+2023-08-15 18:06:22 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:06:22 INFO  Log:11 - =====================================addtocart TEST START=========================================
+2023-08-15 18:06:23 INFO  Log:22 - addtocart is Success
+2023-08-15 18:06:23 INFO  Log:15 - =====================================addtocart TEST END=========================================
+2023-08-15 18:06:23 INFO  Log:11 - =====================================CH_1 TEST START=========================================
+2023-08-15 18:06:25 INFO  Log:22 - CH_1 is Success
+2023-08-15 18:06:25 INFO  Log:15 - =====================================CH_1 TEST END=========================================
+2023-08-15 18:15:28 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:15:28 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:15:28 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:15:29 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 18:15:29 INFO  Log:22 - Login is Success
+2023-08-15 18:15:29 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:23:03 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:23:03 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:23:03 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:23:04 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 18:23:04 INFO  Log:22 - Login is Success
+2023-08-15 18:23:04 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:23:35 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:23:35 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:23:35 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:23:37 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 18:23:37 INFO  Log:22 - Login is Success
+2023-08-15 18:23:37 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:26:11 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:26:11 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:26:11 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:26:11 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 18:26:11 INFO  Log:22 - Login is Success
+2023-08-15 18:26:11 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2023-08-15 18:26:48 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2023-08-15 18:26:48 INFO  Log:22 - Enter UserName and Password
+2023-08-15 18:26:48 INFO  Log:22 - user is going to click on Login
+2023-08-15 18:26:54 INFO  Log:22 - Verifying if user is able to login
+2023-08-15 18:26:54 INFO  Log:22 - Login is Success
+2023-08-15 18:26:54 INFO  Log:15 - =====================================loginTest TEST END=========================================

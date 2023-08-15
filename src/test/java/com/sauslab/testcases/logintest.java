@@ -45,7 +45,7 @@ public class logintest extends BaseClass {
 		Assert.assertEquals(actTitle, "Swag Labs");
 	}
 	
-	@Test(dataProvider  = "credentials", dataProviderClass = DataProviders.class, groups = {"Smoke","Regreesion"})
+	@Test(dataProvider  = "credentials", dataProviderClass = DataProviders.class, groups = {"Smoke","Regression"})
 	public void loginTest(String username , String password) throws InterruptedException {
 		Log.startTestCase("loginTest");
 		LoginPage = new loginPage();

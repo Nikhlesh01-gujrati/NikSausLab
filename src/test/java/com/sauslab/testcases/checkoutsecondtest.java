@@ -41,7 +41,7 @@ public class checkoutsecondtest extends BaseClass {
 		getDriver().quit();
 	}
 	
-	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class,groups = {"Smoke","Regreesion"})
+	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class,groups = {"Smoke","Regression"})
 	public void CH_1(String username , String password,String FirstName,String LastName,String PostalCode) throws InterruptedException {
 		LoginPage = new loginPage();
 //		inventorypage=LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));
@@ -57,7 +57,7 @@ public class checkoutsecondtest extends BaseClass {
 		
 	}
 	
-	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regreesion"})
+	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regression"})
 	public void CH_2(String username , String password,String FirstName,String LastName,String PostalCode) throws InterruptedException {
 		LoginPage = new loginPage();
 //		inventorypage=LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));
@@ -71,7 +71,7 @@ public class checkoutsecondtest extends BaseClass {
 		inventorypage=C2.cancel();
 	}
 	
-	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regreesion"})
+	@Test(dataProvider  = "email", dataProviderClass = DataProviders.class, groups = {"Smoke","Regression"})
 	public void CH_3(String username , String password,String FirstName,String LastName,String PostalCode) throws InterruptedException {
 		LoginPage = new loginPage();
 //		inventorypage=LoginPage.login(prop.getProperty("username"), prop.getProperty("password"));

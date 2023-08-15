@@ -2,27 +2,29 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-07T17:44:47 IST" name="Cross_Browser" finished-at="2023-03-07T17:45:02 IST" duration-ms="14969">
+  <suite started-at="2023-08-15T18:25:55 IST" name="Cross_Browser" finished-at="2023-08-15T18:27:42 IST" duration-ms="106981">
     <groups>
-      <group name="Regreesion">
-        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" name="loginTest" class="com.sauslab.testcases.logintest"/>
-      </group> <!-- Regreesion -->
+      <group name="Regression">
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@49c7b90e]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@483f6d77]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+      </group> <!-- Regression -->
       <group name="Smoke">
-        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" name="loginTest" class="com.sauslab.testcases.logintest"/>
-        <method signature="logintest.verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" name="verifyTitle" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" name="verifyTitle" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@49c7b90e]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@49c7b90e]" name="verifyTitle" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@483f6d77]" name="loginTest" class="com.sauslab.testcases.logintest"/>
+        <method signature="logintest.verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@483f6d77]" name="verifyTitle" class="com.sauslab.testcases.logintest"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2023-03-07T17:44:47 IST" name="Chrome_Test" finished-at="2023-03-07T17:45:02 IST" duration-ms="14969">
+    <test started-at="2023-08-15T18:25:55 IST" name="Chrome_Test" finished-at="2023-08-15T18:27:42 IST" duration-ms="106981">
       <class name="com.sauslab.testcases.logintest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:47 IST" name="beforeSuite" finished-at="2023-03-07T17:44:47 IST" duration-ms="442" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:47 IST" name="loadConfig" finished-at="2023-03-07T17:44:47 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:25:55 IST" name="loadConfig" finished-at="2023-08-15T18:25:55 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:48 IST" name="setup" finished-at="2023-03-07T17:44:56 IST" duration-ms="7301" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:25:56 IST" name="setup" finished-at="2023-08-15T18:26:48 IST" duration-ms="51363" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,7 +35,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:56 IST" name="loginTest" data-provider="credentials" finished-at="2023-03-07T17:44:57 IST" duration-ms="949" status="PASS">
+        <test-method signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:26:48 IST" name="loginTest" data-provider="credentials" finished-at="2023-08-15T18:26:54 IST" duration-ms="5830" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,11 +51,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:57 IST" name="tearDown" finished-at="2023-03-07T17:44:57 IST" duration-ms="327" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:26:54 IST" name="tearDown" finished-at="2023-08-15T18:26:54 IST" duration-ms="328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:44:57 IST" name="setup" finished-at="2023-03-07T17:45:02 IST" duration-ms="4705" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:26:54 IST" name="setup" finished-at="2023-08-15T18:27:41 IST" duration-ms="47441" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,11 +66,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:45:02 IST" name="verifyTitle" finished-at="2023-03-07T17:45:02 IST" duration-ms="25" status="PASS">
+        <test-method signature="verifyTitle()[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:27:41 IST" name="verifyTitle" finished-at="2023-08-15T18:27:41 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauslab.testcases.logintest@6a370f4]" started-at="2023-03-07T17:45:02 IST" name="tearDown" finished-at="2023-03-07T17:45:02 IST" duration-ms="491" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauslab.testcases.logintest@2dde1bff]" started-at="2023-08-15T18:27:41 IST" name="tearDown" finished-at="2023-08-15T18:27:42 IST" duration-ms="457" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
